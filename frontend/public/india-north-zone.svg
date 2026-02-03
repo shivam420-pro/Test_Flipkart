@@ -1,0 +1,90 @@
+<svg viewBox="0 0 600 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- North Zone - Detailed outline matching your provided image -->
+  <path d="
+    M 50 150
+    L 120 80
+    L 200 50
+    L 280 40
+    L 350 50
+    L 420 80
+    L 480 130
+    L 520 180
+    L 550 240
+    L 570 300
+    L 580 360
+    L 585 420
+    L 580 480
+    L 570 540
+    L 550 590
+    L 520 630
+    L 480 660
+    L 430 680
+    L 370 690
+    L 310 685
+    L 250 670
+    L 190 650
+    L 140 620
+    L 100 580
+    L 70 530
+    L 50 470
+    L 40 410
+    L 35 350
+    L 30 290
+    L 30 230
+    L 35 180
+    Z
+  "
+  fill="rgba(134, 239, 172, 0.7)"
+  stroke="#2c5f2d"
+  stroke-width="3"/>
+
+  <!-- Add some internal details for more accurate representation -->
+  <!-- Kashmir region -->
+  <path d="
+    M 120 80
+    L 150 60
+    L 180 55
+    L 200 50
+    L 180 70
+    L 160 85
+    L 140 95
+    Z
+  "
+  fill="rgba(134, 239, 172, 0.8)"
+  stroke="#2c5f2d"
+  stroke-width="2"/>
+
+  <!-- Eastern border detail -->
+  <path d="
+    M 550 240
+    L 560 270
+    L 565 300
+    L 570 330
+    L 575 360
+    L 578 390
+    L 580 420
+    L 575 450
+    L 570 480
+    L 560 510
+    L 550 540
+  "
+  fill="none"
+  stroke="#2c5f2d"
+  stroke-width="1.5"
+  opacity="0.5"/>
+
+  <!-- State labels -->
+  <text x="200" y="120" font-size="18" fill="#1f2937" font-weight="600">J&amp;K</text>
+  <text x="250" y="160" font-size="16" fill="#1f2937" font-weight="500">HP</text>
+  <text x="280" y="200" font-size="16" fill="#1f2937" font-weight="500">Punjab</text>
+  <text x="350" y="240" font-size="16" fill="#1f2937" font-weight="500">Haryana</text>
+  <text x="420" y="300" font-size="16" fill="#1f2937" font-weight="500">Uttarakhand</text>
+  <text x="380" y="400" font-size="18" fill="#1f2937" font-weight="600">Uttar Pradesh</text>
+
+  <!-- North Zone Badge -->
+  <g transform="translate(300, 500)">
+    <rect x="-100" y="-25" width="200" height="50" rx="25" fill="white" stroke="#2c5f2d" stroke-width="3"/>
+    <text x="0" y="-5" font-size="20" fill="#1f2937" font-weight="700" text-anchor="middle">📍 North Zone</text>
+    <text x="0" y="15" font-size="16" fill="#6b7280" font-weight="500" text-anchor="middle">(28 Cities)</text>
+  </g>
+</svg>

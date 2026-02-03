@@ -1,0 +1,101 @@
+<svg viewBox="0 0 600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- West Zone - Detailed outline matching your provided image -->
+  <!-- Main western region outline (Rajasthan, Gujarat, Maharashtra, Goa) -->
+  <path d="
+    M 80 120
+    L 150 80
+    L 220 60
+    L 290 55
+    L 360 60
+    L 430 75
+    L 490 100
+    L 540 140
+    L 570 190
+    L 585 250
+    L 590 310
+    L 585 370
+    L 570 430
+    L 545 485
+    L 510 535
+    L 470 575
+    L 425 605
+    L 375 625
+    L 325 635
+    L 275 640
+    L 225 635
+    L 180 620
+    L 140 595
+    L 110 560
+    L 85 520
+    L 65 475
+    L 50 425
+    L 40 370
+    L 35 315
+    L 30 260
+    L 35 205
+    L 50 155
+    Z
+  "
+  fill="rgba(253, 230, 138, 0.7)"
+  stroke="#92400e"
+  stroke-width="3"/>
+
+  <!-- Gujarat western coastal detail -->
+  <path d="
+    M 80 120
+    L 60 150
+    L 45 180
+    L 35 210
+    L 30 240
+    L 28 270
+    L 30 300
+    L 35 330
+    L 45 360
+    L 60 390
+    L 80 415
+  "
+  fill="none"
+  stroke="#92400e"
+  stroke-width="2"
+  opacity="0.6"/>
+
+  <!-- Goa small region -->
+  <path d="
+    M 180 620
+    L 170 640
+    L 165 660
+    L 168 675
+    L 180 685
+    L 195 680
+    L 205 665
+    L 210 650
+    L 210 635
+    L 200 625
+    Z
+  "
+  fill="rgba(253, 230, 138, 0.8)"
+  stroke="#92400e"
+  stroke-width="2"/>
+
+  <!-- State labels -->
+  <text x="320" y="200" font-size="24" fill="#78350f" font-weight="700">Rajasthan</text>
+  <text x="180" y="340" font-size="22" fill="#78350f" font-weight="600">Gujarat</text>
+  <text x="350" y="480" font-size="22" fill="#78350f" font-weight="600">Maharashtra</text>
+  <text x="190" y="660" font-size="16" fill="#78350f" font-weight="500">Goa</text>
+
+  <!-- Additional state abbreviations -->
+  <text x="250" y="160" font-size="18" fill="#92400e" font-weight="500">RJ</text>
+  <text x="120" y="300" font-size="18" fill="#92400e" font-weight="500">GJ</text>
+  <text x="280" y="520" font-size="18" fill="#92400e" font-weight="500">MH</text>
+
+  <!-- West Zone Badge -->
+  <g transform="translate(300, 750)">
+    <rect x="-110" y="-30" width="220" height="60" rx="30" fill="white" stroke="#92400e" stroke-width="3"/>
+    <text x="0" y="-5" font-size="22" fill="#78350f" font-weight="700" text-anchor="middle">📍 West Zone</text>
+    <text x="0" y="20" font-size="18" fill="#92400e" font-weight="500" text-anchor="middle">(31 Cities)</text>
+  </g>
+
+  <!-- Additional geographical features -->
+  <!-- Arabian Sea indication -->
+  <text x="15" y="250" font-size="12" fill="#92400e" font-weight="400" opacity="0.6" transform="rotate(-90 15 250)">Arabian Sea</text>
+</svg>

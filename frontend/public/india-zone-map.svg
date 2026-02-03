@@ -1,0 +1,66 @@
+<svg viewBox="0 0 1076 1129" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- North Zone (Green - Healthy) -->
+<path d="M237.5 37C263.5 27 289.5 22 315.5 22C341.5 22 367.5 27 393.5 37L507.5 237C507.5 263 502.5 289 492.5 315C482.5 341 467.5 365 447.5 385C427.5 405 403.5 420 377.5 430C351.5 440 325.5 445 299.5 445L237.5 37Z" fill="rgba(134, 239, 172, 0.7)" stroke="#2c5f2d" stroke-width="2"/>
+
+<!-- West Zone (Yellow - Warning) -->
+<path d="M119 320C145 310 171 305 197 305C223 305 249 310 275 320L389 520C389 546 384 572 374 598C364 624 349 648 329 668C309 688 285 703 259 713C233 723 207 728 181 728L119 320Z" fill="rgba(253, 230, 138, 0.7)" stroke="#92400e" stroke-width="2"/>
+
+<!-- East Zone (Red - Action Recommended) -->
+<path d="M513 425C539 415 565 410 591 410C617 410 643 415 669 425L783 625C783 651 778 677 768 703C758 729 743 753 723 773C703 793 679 808 653 818C627 828 601 833 575 833L513 425Z" fill="rgba(252, 165, 165, 0.7)" stroke="#991b1b" stroke-width="2"/>
+
+<!-- South Zone (Green - Healthy) -->
+<path d="M370 815C396 805 422 800 448 800C474 800 500 805 526 815L640 1015C640 1041 635 1067 625 1093C615 1119 600 1143 580 1163C560 1183 536 1198 510 1208C484 1218 458 1223 432 1223L370 815Z" fill="rgba(134, 239, 172, 0.7)" stroke="#2c5f2d" stroke-width="2"/>
+
+<!-- State Labels -->
+<text x="355" y="180" font-size="12" fill="#1f2937" font-weight="500" text-anchor="middle">J&amp;K</text>
+<text x="280" y="220" font-size="12" fill="#1f2937" font-weight="500" text-anchor="middle">HP</text>
+<text x="330" y="250" font-size="12" fill="#1f2937" font-weight="500" text-anchor="middle">PB</text>
+<text x="380" y="270" font-size="12" fill="#1f2937" font-weight="500" text-anchor="middle">HR</text>
+<text x="430" y="310" font-size="12" fill="#1f2937" font-weight="500" text-anchor="middle">UP</text>
+<text x="210" y="450" font-size="12" fill="#1f2937" font-weight="500" text-anchor="middle">RJ</text>
+<text x="180" y="550" font-size="12" fill="#1f2937" font-weight="500" text-anchor="middle">GJ</text>
+<text x="280" y="650" font-size="12" fill="#1f2937" font-weight="500" text-anchor="middle">MH</text>
+<text x="330" y="750" font-size="12" fill="#1f2937" font-weight="500" text-anchor="middle">MP</text>
+<text x="550" y="550" font-size="12" fill="#1f2937" font-weight="500" text-anchor="middle">WB</text>
+<text x="620" y="600" font-size="12" fill="#1f2937" font-weight="500" text-anchor="middle">OR</text>
+<text x="480" y="950" font-size="12" fill="#1f2937" font-weight="500" text-anchor="middle">KA</text>
+<text x="420" y="1050" font-size="12" fill="#1f2937" font-weight="500" text-anchor="middle">TN</text>
+<text x="530" y="1000" font-size="12" fill="#1f2937" font-weight="500" text-anchor="middle">AP</text>
+
+<!-- Zone Labels with Badges -->
+<!-- North Zone Badge -->
+<g transform="translate(310, 120)">
+  <rect x="-80" y="-15" width="160" height="30" rx="15" fill="white" stroke="#2c5f2d" stroke-width="2"/>
+  <text x="0" y="5" font-size="14" fill="#1f2937" font-weight="600" text-anchor="middle">
+    <tspan>📍 North Zone</tspan>
+    <tspan x="0" dy="0" font-size="11" fill="#6b7280"> (28 Cities)</tspan>
+  </text>
+</g>
+
+<!-- West Zone Badge -->
+<g transform="translate(250, 510)">
+  <rect x="-75" y="-15" width="150" height="30" rx="15" fill="white" stroke="#92400e" stroke-width="2"/>
+  <text x="0" y="5" font-size="14" fill="#1f2937" font-weight="600" text-anchor="middle">
+    <tspan>📍 West Zone</tspan>
+    <tspan x="0" dy="0" font-size="11" fill="#6b7280"> (31 Cities)</tspan>
+  </text>
+</g>
+
+<!-- East Zone Badge -->
+<g transform="translate(590, 520)">
+  <rect x="-75" y="-15" width="150" height="30" rx="15" fill="white" stroke="#991b1b" stroke-width="2"/>
+  <text x="0" y="5" font-size="14" fill="#1f2937" font-weight="600" text-anchor="middle">
+    <tspan>📍 East Zone</tspan>
+    <tspan x="0" dy="0" font-size="11" fill="#6b7280"> (23 Cities)</tspan>
+  </text>
+</g>
+
+<!-- South Zone Badge -->
+<g transform="translate(480, 810)">
+  <rect x="-80" y="-15" width="160" height="30" rx="15" fill="white" stroke="#2c5f2d" stroke-width="2"/>
+  <text x="0" y="5" font-size="14" fill="#1f2937" font-weight="600" text-anchor="middle">
+    <tspan>📍 South Zone</tspan>
+    <tspan x="0" dy="0" font-size="11" fill="#6b7280"> (18 Cities)</tspan>
+  </text>
+</g>
+</svg>
